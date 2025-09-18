@@ -1,0 +1,1 @@
+This is a portfolio website built with Vite and Tailwind CSS. It serves as a comprehensive showcase of my projects, skills, and professional experience. The site is designed to be fast,  and easy to navigate.
